@@ -12,7 +12,10 @@ Just testing the waters of github pages.
 
 ![Image](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 
-> To be or not to be
+> To be or not to be, that it the question <br>
+> Game stooooonnnnk <br>
+> 哈哈哈哈哈哈
+
 
 * Wake up
 * Wake up
@@ -24,7 +27,10 @@ Just testing the waters of github pages.
 4. Sleep again
 
 ---
-One random section
+One random section<br>
+Now this is its own section
+
+---
 
 
 this is some `variable`
