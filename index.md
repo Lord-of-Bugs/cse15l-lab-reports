@@ -8,7 +8,7 @@ Just testing the waters of github pages.
 
 ## Less Mega Heading
 
-[Link](github.com.io/Lord-of-Bugs/cse15l-lab-reports/index.html)
+[Link](https://lord-of-bugs.github.io/cse15l-lab-reports/)
 
 ![Image](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 
@@ -25,7 +25,7 @@ Just testing the waters of github pages.
 
 ---
 One random section
----
+
 
 this is some `variable`
 
